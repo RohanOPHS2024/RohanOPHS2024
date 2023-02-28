@@ -1,0 +1,8 @@
+name = str(input("enter name"))
+print("hello",name)
+
+age = int(input("enter age"))
+print("are you really",age)
+
+cost = float(input("How much is it?"))
+print("Cost","is too much")
