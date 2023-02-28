@@ -1,0 +1,11 @@
+Team1Name = "Hawks"
+Team2Name = "Eagles"
+
+FREETHROW = 1
+TWOPOINTER = 2
+THREEPOINTER = 3
+
+#In the game of basketball
+#The points will never change
+#It makes sense to 
+#Define the points in CONSTANTS
