@@ -1,0 +1,11 @@
+name = str(input("enter name:"))
+print(name)
+age = int(input("enter age:"))
+print(age)
+console = str(input("enter console:"))
+print(console)
+price = float(input("enter price:"))
+print(price)
+password = (input("enter password:"))
+print(password)
+
