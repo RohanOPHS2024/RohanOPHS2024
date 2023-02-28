@@ -1,0 +1,21 @@
+email = "rohan@gmail.com"
+name =  "rohan"
+console = "Xbox"
+age = 999
+price = 2.22
+
+#above are 5 variables
+#one is called "email"
+#other is called "name"
+#both contain data
+
+print(email)
+print(name)
+print(console)
+print(age)
+print(price)
+
+#print is a function
+#it displays text to the screen
+
+
