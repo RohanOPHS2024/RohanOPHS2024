@@ -13,3 +13,7 @@ print("here is your madlib")
 print("")
 print("Curry was invented by a" ,adjective1, nationality1, "chef named" ,person1)
 print("they had a friend call" ,person2, "who is from" ,country1)
+print("they struggled making curry because" ,person1, "was too short to reach the ingredients")
+
+print("")
+print("thank you for using Madlibs")
