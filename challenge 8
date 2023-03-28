@@ -1,0 +1,10 @@
+number = int(input("enter a number from 1 - 3"))
+
+if number == 1:
+  print("thank you")
+elif number == 2:
+  print("well done your so smart")
+elif number == 3:
+  print("amazing you are good at this")
+else:
+  print("really what is wrong with you")
