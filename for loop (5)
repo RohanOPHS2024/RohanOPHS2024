@@ -1,0 +1,5 @@
+num = int(input("enter a number under 50"))
+
+for count in range(50,num,-1):
+  print(count)
+  
