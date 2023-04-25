@@ -1,0 +1,4 @@
+name = str(input("input your name"))
+for singleletter in (name):
+  print (singleletter)
+  
