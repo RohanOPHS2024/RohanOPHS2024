@@ -1,0 +1,3 @@
+name = str(input("input your name"))
+for repeatvariable in range(50):
+  print(name)
