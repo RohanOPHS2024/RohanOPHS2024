@@ -1,0 +1,12 @@
+string1 = "1"
+string2 = "2"
+
+concatination = string1 + string2
+print(concatination)
+
+string1cast = int(string1)
+string2cast = int(string2)
+
+print("you can add integers")
+adding = string1cast + string2cast
+print(adding)
