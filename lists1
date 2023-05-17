@@ -1,0 +1,18 @@
+cars = []
+print(cars)
+
+newcar = str(input("enter a car brand"))
+location = int(input("enter a location 0 - 3"))
+newcar2 = str(input("enter another car brand"))
+location2 = int(input("enter a location 0 - 3"))
+newcar3 = str(input("enter another car brand"))
+location3 = int(input("enter a location 0 - 3"))
+
+
+
+cars.insert(location, newcar)
+cars.insert(location2, newcar2)
+cars.insert(location3, newcar3)
+
+print(cars)
+
