@@ -1,0 +1,13 @@
+names = []
+names.append(input("enter name"))
+names.append(input("enter name"))
+names.append(input("enter name"))
+
+anw = str(input("do you want to add another?"))
+while anw == "yes":
+  names.append(input("enter name"))
+  anw = str(input("do you want to add more?"))
+   
+else:
+  print(names)
+
