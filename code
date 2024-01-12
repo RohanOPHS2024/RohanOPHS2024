@@ -1,0 +1,5 @@
+name = input("enter your name")
+if len(name) < 5:
+  surname = str(input("enter your surname"))
+  name = name+surname
+  print(name.upper())
